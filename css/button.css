@@ -11,7 +11,8 @@
   background-color: black;
   line-height: 50px;
   padding: 14px 33px;
-  background-image: url("arrow-narrow-right-svgrepo-com");
+  background-image: url(../img/arrow.svg);
   background-repeat: no-repeat;
-  background-position: center right;
+  background-position: calc(100% - 31px) center;
+  background-size: 28px 34px;
 }
